@@ -70,8 +70,7 @@ _Dec 2020 – Aug 2022_
 ---
 
 🔗 **Connect with Muhammad Saad**  
-- [LinkedIn](https://www.linkedin.com/)  
-- [Upwork](https://www.upwork.com/)  
+- [LinkedIn](https://www.linkedin.com/in/mohammad-saad-017aa9228)
 
 📊 **Languages & Tools**  
 Node.js, Laravel, NestJs, Express.js, React.js, Next.js, Angular, Vue.js, JavaScript, jQuery, HTML5, CSS3, MySQL, PostgreSQL, MongoDB, AWS, DigitalOcean, Git, GitHub, Bitbucket, Bootstrap  
